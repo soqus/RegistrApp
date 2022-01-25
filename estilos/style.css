@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(127, 193, 219);
+}
+#es{
+    text-align: left;
+}
+
+#carta{
+    padding: 2% ;
+}
+
+#foto{
+    padding-right: 60%;
+}
+
+#descargar{
+    text-align: center;
+    padding: left 25%;
+}
+footer{
+    background-color: rgb(71, 103, 116);
+    text-align: center;
+    color: white;
+}
+nav{
+    background-color: rgb(71, 103, 116);
+}
+#texto{
+    text-align: center;
+}
